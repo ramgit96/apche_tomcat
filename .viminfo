@@ -12,7 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1732358397,,"wq!"
+|2,0,1732359078,,"wq!"
+:q!
+|2,0,1732358975,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -23,146 +25,274 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	<?xml version="1.0" encoding="UTF-8"?>
+|3,1,1,1,1,0,1732358970,"<?xml version=\"1.0\" encoding=\"UTF-8\"?>"
+"2	LINE	0
+	
+	
+|3,0,2,1,2,0,1732358775,"",""
 
 # File marks:
-'0  97  0  ~/apache_tomcat_installation
-|4,48,97,0,1732358397,"~/apache_tomcat_installation"
-'1  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
-|4,49,160,24,1732357852,"~/apache-tomcat-9.0.97/conf/server.xml"
-'2  71  24  ~/apache-tomcat-9.0.97/conf/server.xml
-|4,50,71,24,1732356868,"~/apache-tomcat-9.0.97/conf/server.xml"
-'3  71  24  ~/apache-tomcat-9.0.97/conf/server.xml
-|4,51,71,24,1732356868,"~/apache-tomcat-9.0.97/conf/server.xml"
-'4  37  30  ~/jenkinsinstallation.txt
-|4,52,37,30,1732349737,"~/jenkinsinstallation.txt"
-'5  39  35  ~/jenkinsinstallation.txt
-|4,53,39,35,1732348931,"~/jenkinsinstallation.txt"
-'6  39  35  ~/jenkinsinstallation.txt
-|4,54,39,35,1732348931,"~/jenkinsinstallation.txt"
+'0  151  16  ~/apache_tomcat_installation
+|4,48,151,16,1732359078,"~/apache_tomcat_installation"
+'1  219  0  ~/apache-tomcat-9.0.97/webapps/manager/WEB-INF/web.xml
+|4,49,219,0,1732359014,"~/apache-tomcat-9.0.97/webapps/manager/WEB-INF/web.xml"
+'2  1  30  ~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml
+|4,50,1,30,1732358975,"~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml"
+'3  191  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,51,191,8,1732358827,"~/apache-tomcat-9.0.97/conf/server.xml"
+'4  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,52,64,4,1732358779,"~/apache-tomcat-9.0.97/conf/server.xml"
+'5  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,53,64,4,1732358779,"~/apache-tomcat-9.0.97/conf/server.xml"
+'6  191  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,54,191,8,1732358725,"~/apache-tomcat-9.0.97/conf/server.xml"
+'7  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,55,182,8,1732358725,"~/apache-tomcat-9.0.97/conf/server.xml"
+'8  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,56,182,8,1732358725,"~/apache-tomcat-9.0.97/conf/server.xml"
+'9  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,57,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
 
 # Jumplist (newest first):
--'  97  0  ~/apache_tomcat_installation
-|4,39,97,0,1732358397,"~/apache_tomcat_installation"
--'  1  0  ~/apache_tomcat_installation
-|4,39,1,0,1732357909,"~/apache_tomcat_installation"
+-'  151  16  ~/apache_tomcat_installation
+|4,39,151,16,1732359078,"~/apache_tomcat_installation"
+-'  143  0  ~/apache_tomcat_installation
+|4,39,143,0,1732359045,"~/apache_tomcat_installation"
+-'  219  0  ~/apache-tomcat-9.0.97/webapps/manager/WEB-INF/web.xml
+|4,39,219,0,1732359014,"~/apache-tomcat-9.0.97/webapps/manager/WEB-INF/web.xml"
+-'  219  0  ~/apache-tomcat-9.0.97/webapps/manager/WEB-INF/web.xml
+|4,39,219,0,1732359014,"~/apache-tomcat-9.0.97/webapps/manager/WEB-INF/web.xml"
+-'  1  0  ~/apache-tomcat-9.0.97/webapps/manager/WEB-INF/web.xml
+|4,39,1,0,1732359005,"~/apache-tomcat-9.0.97/webapps/manager/WEB-INF/web.xml"
+-'  1  0  ~/apache-tomcat-9.0.97/webapps/manager/WEB-INF/web.xml
+|4,39,1,0,1732359005,"~/apache-tomcat-9.0.97/webapps/manager/WEB-INF/web.xml"
+-'  1  30  ~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml
+|4,39,1,30,1732358975,"~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml"
+-'  1  30  ~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml
+|4,39,1,30,1732358975,"~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml"
+-'  1  30  ~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml
+|4,39,1,30,1732358975,"~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml"
+-'  1  30  ~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml
+|4,39,1,30,1732358975,"~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml"
+-'  2  0  ~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml
+|4,39,2,0,1732358970,"~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml"
+-'  2  0  ~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml
+|4,39,2,0,1732358970,"~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml"
+-'  2  0  ~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml
+|4,39,2,0,1732358970,"~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml"
+-'  2  0  ~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml
+|4,39,2,0,1732358970,"~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml"
+-'  191  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,191,8,1732358827,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  191  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,191,8,1732358827,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  191  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,191,8,1732358827,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  191  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,191,8,1732358827,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  191  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,191,8,1732358827,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  191  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,191,8,1732358827,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  191  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,191,8,1732358827,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  191  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,191,8,1732358827,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358820,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358820,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358820,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358820,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358820,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358820,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358820,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358820,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358779,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358779,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358779,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358779,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358779,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358779,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358779,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  64  4  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,64,4,1732358779,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358746,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358746,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358746,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358746,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358746,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358746,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358746,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358746,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358725,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358725,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358725,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358725,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358725,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358725,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358725,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  182  8  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,182,8,1732358725,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  169  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,169,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
 -'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
-|4,39,160,24,1732357852,"~/apache-tomcat-9.0.97/conf/server.xml"
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
 -'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
-|4,39,160,24,1732357852,"~/apache-tomcat-9.0.97/conf/server.xml"
--'  71  24  ~/apache-tomcat-9.0.97/conf/server.xml
-|4,39,71,24,1732357155,"~/apache-tomcat-9.0.97/conf/server.xml"
--'  71  24  ~/apache-tomcat-9.0.97/conf/server.xml
-|4,39,71,24,1732357155,"~/apache-tomcat-9.0.97/conf/server.xml"
--'  71  24  ~/apache-tomcat-9.0.97/conf/server.xml
-|4,39,71,24,1732356868,"~/apache-tomcat-9.0.97/conf/server.xml"
--'  71  24  ~/apache-tomcat-9.0.97/conf/server.xml
-|4,39,71,24,1732356868,"~/apache-tomcat-9.0.97/conf/server.xml"
--'  1  0  ~/apache-tomcat-9.0.97/conf/server.xml
-|4,39,1,0,1732356845,"~/apache-tomcat-9.0.97/conf/server.xml"
--'  1  0  ~/apache-tomcat-9.0.97/conf/server.xml
-|4,39,1,0,1732356845,"~/apache-tomcat-9.0.97/conf/server.xml"
--'  1  0  ~/apache-tomcat-9.0.97/conf/server.xml
-|4,39,1,0,1732356845,"~/apache-tomcat-9.0.97/conf/server.xml"
--'  1  0  ~/apache-tomcat-9.0.97/conf/server.xml
-|4,39,1,0,1732356845,"~/apache-tomcat-9.0.97/conf/server.xml"
--'  37  30  ~/jenkinsinstallation.txt
-|4,39,37,30,1732349737,"~/jenkinsinstallation.txt"
--'  37  30  ~/jenkinsinstallation.txt
-|4,39,37,30,1732349737,"~/jenkinsinstallation.txt"
--'  37  30  ~/jenkinsinstallation.txt
-|4,39,37,30,1732349737,"~/jenkinsinstallation.txt"
--'  37  30  ~/jenkinsinstallation.txt
-|4,39,37,30,1732349737,"~/jenkinsinstallation.txt"
--'  37  30  ~/jenkinsinstallation.txt
-|4,39,37,30,1732349737,"~/jenkinsinstallation.txt"
--'  37  30  ~/jenkinsinstallation.txt
-|4,39,37,30,1732349737,"~/jenkinsinstallation.txt"
--'  37  30  ~/jenkinsinstallation.txt
-|4,39,37,30,1732349737,"~/jenkinsinstallation.txt"
--'  37  30  ~/jenkinsinstallation.txt
-|4,39,37,30,1732349737,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732349714,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732349714,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732349714,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732349714,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732349714,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732349714,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732349714,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732349714,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732348931,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732348931,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732348931,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732348931,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732348931,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732348931,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732348931,"~/jenkinsinstallation.txt"
--'  39  35  ~/jenkinsinstallation.txt
-|4,39,39,35,1732348931,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
--'  1  0  ~/jenkinsinstallation.txt
-|4,39,1,0,1732348483,"~/jenkinsinstallation.txt"
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  169  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,169,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  169  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,169,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  169  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,169,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  169  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,169,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  169  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,169,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  169  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,169,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  169  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,169,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  160  24  ~/apache-tomcat-9.0.97/conf/server.xml
+|4,39,160,24,1732358719,"~/apache-tomcat-9.0.97/conf/server.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
+-'  56  0  ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+|4,39,56,0,1732358709,"~/apache-tomcat-9.0.97/conf/tomcat-users.xml"
 
 # History of marks within files (newest to oldest):
 
 > ~/apache_tomcat_installation
-	*	1732358394	0
-	"	97	0
-	^	97	0
-	.	96	26
+	*	1732359076	0
+	"	151	16
+	^	151	17
+	.	138	16
 	+	7	85
 	+	61	34
-	+	96	26
+	+	142	26
+	+	140	0
+	+	94	54
+	+	138	16
+
+> ~/apache-tomcat-9.0.97/webapps/manager/WEB-INF/web.xml
+	*	1732359012	0
+	"	219	0
+
+> ~/apache-tomcat-9.0.97/webapps/manager/META-INF/context.xml
+	*	1732358973	0
+	"	1	30
+	.	1	0
+	+	1	0
 
 > ~/apache-tomcat-9.0.97/conf/server.xml
-	*	1732357841	0
-	"	160	24
-	^	71	25
-	.	71	24
-	+	71	24
+	*	1732358825	0
+	"	191	8
+	^	191	9
+	.	73	121
+	+	80	24
+	+	62	0
+	+	73	121
+
+> ~/apache-tomcat-9.0.97/conf/tomcat-users.xml
+	*	1732358706	0
+	"	56	0
 
 > ~/jenkinsinstallation.txt
 	*	1732349735	0

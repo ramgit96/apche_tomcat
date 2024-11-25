@@ -117,3 +117,7 @@ NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED -
 23-Nov-2024 10:16:28.836 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/apache-tomcat-9.0.97/webapps/manager] has finished in [41] ms
 23-Nov-2024 10:16:28.846 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8181"]
 23-Nov-2024 10:16:28.887 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1446] milliseconds
+23-Nov-2024 10:45:19.050 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/home/ec2-user/apache-tomcat-9.0.97/conf/tomcat-users.xml]
+23-Nov-2024 10:50:19.083 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.reload Reloading context [/manager]
+23-Nov-2024 10:50:19.083 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/manager] has started
+23-Nov-2024 10:50:19.140 INFO [Catalina-utility-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/manager] is completed

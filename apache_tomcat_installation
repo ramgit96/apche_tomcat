@@ -816,3 +816,27 @@ After doing this, you may fix the identity used for this commit with:
  create mode 100644 apache-tomcat-9.0.97/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.class
  create mode 100644 apache-tomcat-9.0.97/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java
  create mode 100644 apache_tomcat_installation
+[master 5df5e43] commited
+ Committer: raghavaram <ec2-user@ip-172-31-3-63.ap-south-1.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 721 insertions(+)
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .viminfo
+	modified:   apache-tomcat-9.0.97/logs/catalina.2024-11-23.log
+	modified:   apache-tomcat-9.0.97/logs/catalina.out
+	modified:   apache_tomcat_installation
+
+no changes added to commit (use "git add" and/or "git commit -a")
